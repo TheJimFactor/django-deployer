@@ -1,4 +1,4 @@
-django-deployer
+django-deployer - The Jim Factor Fork
 ===============
 
 django-deployer is a deployment tool for Django that currently deploys any Django app to the following PaaS providers: 
